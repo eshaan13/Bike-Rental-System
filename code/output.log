@@ -1,0 +1,37 @@
+[uk.ac.ed.bikerental.Booking@5e4c8041]
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+╷
+├─ JUnit Jupiter ✔
+│  ├─ TestDateRange ✔
+│  │  ├─ testOverlapsFalse() ✔
+│  │  ├─ testToYears1() ✔
+│  │  ├─ testToYears3() ✔
+│  │  └─ testOverlapsTrue() ✔
+│  ├─ TestLocation ✔
+│  │  ├─ Test_isNearTo1() ✔
+│  │  └─ Test_isNearTo2() ✔
+│  └─ SystemTests ✔
+│     ├─ returningBikes() ✔
+│     ├─ findingAQuote() ✔
+│     └─ bookingAQuote() ✔
+└─ JUnit Vintage ✔
+   └─ TestValuationPolicy ✔
+      ├─ claculateValueTestDDBD ✔
+      └─ calculateValueTestLD ✔
+
+Test run finished after 244 ms
+[         6 containers found      ]
+[         0 containers skipped    ]
+[         6 containers started    ]
+[         0 containers aborted    ]
+[         6 containers successful ]
+[         0 containers failed     ]
+[        11 tests found           ]
+[         0 tests skipped         ]
+[        11 tests started         ]
+[         0 tests aborted         ]
+[        11 tests successful      ]
+[         0 tests failed          ]
+
